@@ -125,6 +125,6 @@ All 27 test cases test:
 
 ## 🔑 Demo Credentials
 
-- **Admin Account**: `admin@campusfind.edu` / `Admin@123`
+
 - **Student Account**: `aarav@campus.edu` / `Test@123`
 
