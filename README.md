@@ -48,6 +48,26 @@ campusfind/
 
 ---
 
+### Quick Start — Run with One Command
+
+CampusFind can be launched locally using a single command.
+
+After cloning the repository and completing the required setup, open a terminal in the project's root directory and run:
+
+```bash
+bash start.sh
+```
+
+The startup script launches the CampusFind application, including:
+
+- **Backend:** Node.js + Express
+- **Frontend:** React + Vite
+- **Desktop Application:** Electron
+
+**Prerequisites:** Install the required dependencies and configure the database and environment variables before running the script.
+
+Once started, CampusFind opens in the Electron desktop application.
+
 ## 🚀 Getting Started
 
 ### 1. Database Setup
